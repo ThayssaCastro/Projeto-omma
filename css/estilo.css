@@ -40,7 +40,7 @@ header .menu ul li a {
 main section.banner {
     height: 600px; /* altura */
     background-color: #FFA000; /* cor de fundo pra teste */
-    background-image: url(../Imagens/banner\ home.png); /* imagem de fundo */
+    background-image: url(../imagens/banner\ home.png); /* imagem de fundo */
     background-repeat: no-repeat; /* imagem não vai repetir */
     background-size: cover; /* imagem vai cobrir todo o elemento section */
 }
@@ -114,7 +114,7 @@ main section.receitas-principais h2 {
 }
 
 section.banner-segundario {
-    background-image: url(../Imagens/foto-avo.png);
+    background-image: url(../imagens/foto-avo.png);
     background-size: cover;
     background-position: center;
 }
