@@ -247,7 +247,7 @@ aside article.receita-relacionada h3 {
 .banner-contato {
     width: 100%;
     height: 400px;
-    background-image: url(../Imagens/Image20230529125357.png);
+    background-image: url(../imagens/Image20230529125357.png);
     background-size: cover;
     background-position: center;
 }
@@ -267,7 +267,7 @@ section.contato .container {
 .banner-vertical {
     width: 30%;
     height: 700px;
-    background-image: url(../Imagens/celular.png);
+    background-image: url(../imagens/celular.png);
     background-size: cover;
     background-position: center;
     border-radius: 30px;
